@@ -37,3 +37,16 @@
 35. porpoise
 36. deer
 37. wolverine
+38. pig
+39. cricket
+40. kangaroo
+41. elephant
+42. squid
+43. beaver
+44. tuna
+45. mastodon
+46. parrot
+47. opossum
+48. donkey
+49. barracuda
+50. beetle
